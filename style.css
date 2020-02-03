@@ -72,6 +72,11 @@ header.headline {
   text-align: center;
   line-height: 0.6;
 }
+.blog-item {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #f7f7f7;
+}
 .sidebar {
   width: 230px;
   float: left;
