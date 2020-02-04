@@ -15,13 +15,17 @@ a {
 }
 
 header {
-  width: 100%;
+  width: 90%;
   padding: 15px 0;
   margin: 0 auto;
   text-align: center;
 }
 header.headline {
   font-size: 32px;
+}
+.social i {
+  display: inline-block;
+  margin-left: 20px;
 }
 .nav-list {
   text-align: center;
